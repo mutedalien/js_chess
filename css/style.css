@@ -1,7 +1,7 @@
 .board{
     width: 640px;
     height: 640px;
-    border: 20px solid #55cdef;
+    border: 20px solid brown;
 }
 .square{
     float: left;
@@ -12,7 +12,7 @@
     justify-content: center;
 }
 .black{
-    background-color: #999;
+    background-color: saddlebrown;
 }
 .white{
     background-color: #eee;
